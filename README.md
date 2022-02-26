@@ -8,6 +8,9 @@
 ## Janji
 Saya Satria Pinandita Abyatarsyah mengerjakan evaluasi Latihan 3 Tugas Praktikum dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+## Tentang Program
+Program ini adalah program "Prediksi Harga PC". User dapat melakukan input komponen hardware sebanyak yang user mau. Lalu user dapat merancang PC-nya sendiri dengan memilih komponen-komponen hardware yang sudah diinput sebelumnya. Output dari program ini adalah total harga dari rancangan PC user.
+
 ## Analisis Desain
 ### Processor
 Sebuah kelas "Processor" dengan atribut:
@@ -34,9 +37,6 @@ Dengan demikian hubungan antar kelas dalam program ini adalah sebagai berikut: \
 PC --> Processor (Composition) \
 PC --> Disk (Composition) \
 PC --> RAM (Composition)
-
-## Tentang Program
-Program ini adalah program "Prediksi Harga PC". User dapat melakukan input komponen hardware sebanyak yang user mau. Lalu user dapat merancang PC-nya sendiri dengan memilih komponen-komponen hardware yang sudah diinput sebelumnya. Output dari program ini adalah total harga dari rancangan PC user.
 
 ## Run Program
 ### C++
